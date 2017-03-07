@@ -34,9 +34,10 @@ Preview: [http://127.0.0.1:8081/](http://127.0.0.1:8081/)
 
 ```
 composer create-project snapshot/zend-expressive-php-pm expressive-phppm
+cd expressive-phppm
 ```
 
-## Requiments
+## Requirements
 
 ab
 
